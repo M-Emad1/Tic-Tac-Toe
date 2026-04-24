@@ -15,6 +15,6 @@ A classic Tic Tac Toe game featuring an AI opponent that utilizes the Minimax al
 ## ODESA Analysis
 * **Observability:** Fully-observable
 * **Determinism:** Deterministic
-* **Episodic:** 
+* **Episodic:** Sequential
 * **Static:** Static 
 * **Agents:** Single-Agent
